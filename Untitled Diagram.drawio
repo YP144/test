@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T09:23:46.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mg7KQG2rSNymZ1wsjVMQ" version="24.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-16T09:45:58.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-foqMmTHYF5gLaewvUOr" version="24.5.4" type="github" pages="2">
   <diagram name="Page-1" id="lpQ0eJvXcRM7gWXpZsL8">
-    <mxGraphModel dx="910" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,10 +116,121 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wBqLk_NoW9smkIkLeC6h" name="Page-2">
-    <mxGraphModel dx="364" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="acIBrtNQogKwqG6vnq2C-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="acIBrtNQogKwqG6vnq2C-3" target="25ggGAWnehzN6rHJOXn9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acIBrtNQogKwqG6vnq2C-3" value="Problem statement&lt;div style=&quot;font-size: 13px;&quot;&gt;Benchmarking&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Product dissection&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;House of Quality&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Product design&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Spesification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-1" value="Problem Definition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-6" target="25ggGAWnehzN6rHJOXn9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-6" value="Internet&lt;div&gt;Patents&lt;/div&gt;&lt;div&gt;Technical articles&lt;/div&gt;&lt;div&gt;Trade journals&lt;/div&gt;&lt;div&gt;Consultants&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-7" value="Information Gathering" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-12" target="25ggGAWnehzN6rHJOXn9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-12" value="Creativity methods&lt;div&gt;Brainstorming&lt;/div&gt;&lt;div&gt;Functional models&lt;/div&gt;&lt;div&gt;Decomposition&lt;/div&gt;&lt;div&gt;Systematic design methods&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-13" value="Concept Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-15" target="25ggGAWnehzN6rHJOXn9-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="117" />
+              <mxPoint x="680" y="290" />
+              <mxPoint x="100" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-15" value="Decision making&lt;div&gt;Selection criteria&lt;/div&gt;&lt;div&gt;Pugh chart&lt;/div&gt;&lt;div&gt;Decision matrix&lt;/div&gt;&lt;div&gt;Analytic hierarchy process&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-16" value="Evaluation of Concepts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-18" target="25ggGAWnehzN6rHJOXn9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-18" value="Arrangement of physical elements&lt;div&gt;Modularity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-19" value="Product Architercture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="325" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-21" target="25ggGAWnehzN6rHJOXn9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-21" value="Preliminary selection of materials and manufacturing processes&lt;div&gt;Modeling&lt;/div&gt;&lt;div&gt;Sizing of parts&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-22" value="Configuration Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="325" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="25ggGAWnehzN6rHJOXn9-24" target="25ggGAWnehzN6rHJOXn9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-24" value="Robust design&lt;div&gt;Set tolerances&lt;/div&gt;&lt;div&gt;Design for Manufacturing and Assembly (DFMA) Tolerances&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-25" value="Parametric Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="325" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-27" value="Engineering drawings&lt;div&gt;Finalize&lt;/div&gt;&lt;div&gt;Product design specification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-28" value="Detail Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="325" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="244.38" y="340" width="31.25" height="327.19" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="319.38" y="-15" width="31.25" height="477.19" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-46" value="Embodiment Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="165.01" y="510" width="189.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25ggGAWnehzN6rHJOXn9-47" value="Conceptual Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240.01" y="230" width="189.99" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
